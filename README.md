@@ -3,7 +3,7 @@ BreathSafe – An AI-powered project for air pollution prediction, environmental
 This is an AI-powered project that aims to predict air pollution levels in India. The model is trained using historical data to forecast future Air Quality Index (AQI) for various cities.
 AI for a Healthier Tomorrow
 
-##Key Features
+## Key Features
 
 Air Quality Index (AQI) Prediction: Forecasts AQI levels for different cities.
 
@@ -11,11 +11,11 @@ Time-Based Analysis: Analyzes seasonal and annual trends in AQI.
 
 Location-Based Data: Predicts pollution levels for specific cities.
 
-##Dataset
+## Dataset
 
 This project uses the Air Quality Data in India (2015-2024) dataset, obtained from Kaggle. The dataset includes historical records of various pollutants such as PM2.5, PM10, CO, SO2, and AQI.
 
-##Technologies Used
+## Technologies Used
 
 Python
 
@@ -27,7 +27,7 @@ Numpy: For numerical computations.
 
 Matplotlib & Seaborn: For data visualization.
 
-##How to Run the Project
+## How to Run the Project
 
 Clone this repository to your local machine.
 
