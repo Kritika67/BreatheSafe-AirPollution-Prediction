@@ -35,6 +35,6 @@ Install the required libraries using the following command:
 
 pip install pandas numpy scikit-learn matplotlib seaborn
 
-Open the [Breathesafe_AirPollution_Prediction.ipynb] file in Google Colab or Jupyter Notebook.
+Open the Breathesafe_AirPollution_Prediction.ipynb file in Google Colab or Jupyter Notebook.
 
 Run all the cells in order.
