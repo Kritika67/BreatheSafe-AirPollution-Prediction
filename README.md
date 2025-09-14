@@ -4,13 +4,13 @@ This is an AI-powered project that aims to predict air pollution levels in India
 AI for a Healthier TomorrowProject: BreatheSafe: An AI-Powered Air Pollution Predictor
 This project is an AI-based solution that predicts air pollution levels using advanced machine learning techniques and data from multiple sources.
 
-Problem Statement
+## Problem Statement
 Air pollution is a severe global health crisis. Our project aims to address this by developing a predictive model that can forecast pollution levels, enabling individuals to make informed decisions about their health and well-being.
 
-Solution Overview
+## Solution Overview
 Our solution is a robust, end-to-end AI application with a powerful prediction model at its core. It transforms raw environmental data into actionable insights for users.
 
-Features
+## Features
 AI-Powered Prediction: We utilized a high-performance XGBoost Regressor model to accurately predict the Air Quality Index (AQI).
 
 Data Pipeline: The project integrates data from multiple datasets (city_day.csv and stations.csv) to create a comprehensive and accurate dataset.
@@ -19,7 +19,7 @@ Advanced Feature Engineering: We used advanced techniques like Lagging, Rolling 
 
 Interactive UI: The model is deployed into an interactive web application using Streamlit, making it accessible to a wide audience.
 
-Performance Metrics
+## Performance Metrics
 Our model's performance on unseen data is excellent, as shown by these key metrics:
 
 Mean Absolute Error (MAE): 4.96
@@ -28,7 +28,7 @@ R-squared Score (R2): 0.997
 
 This R2 score shows that our model is 99.7% accurate at predicting the variability in the data, which is a fantastic result for a complex problem like air pollution.
 
-Future Vision: The Hybrid Approach
+## Future Vision: The Hybrid Approach
 This project is a strong foundation for a more advanced application. Our future vision is to create a Hybrid Application that combines two key functionalities:
 
 Real-time Prediction: Using a user's live location, the app will predict current pollution levels.
